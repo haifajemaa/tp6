@@ -1,3 +1,6 @@
 .active{
 text-transform: capitalize;
 }
+a:active {
+    font-weight: bold;
+}
